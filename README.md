@@ -113,3 +113,6 @@ Future research could use real-world cybersecurity datasets, collect responses f
 - **Project Type:** Academic Project
 - **Course:** Computing Research
 - **Semester:** Fall 2025/2026
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
